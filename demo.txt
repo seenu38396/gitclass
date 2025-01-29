@@ -1,1 +1,8 @@
-test1
+Create the file:- touch test.txt
+Edit the file:- vi test.txt
+to put the in Staging:- git add test.txt
+to commit the file:- git commit -m test.txt
+to update or upload the file to main Repo in git hub:- git push
+
+
+
