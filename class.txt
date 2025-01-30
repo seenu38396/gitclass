@@ -12,6 +12,6 @@ add a message to commit: git commit -m "message"
 to push the folder which is created locally use this command:- git add remote origin https://github.com/seenu38396/sample1.git
 git push origin main
 
-
+git config pull.rebase true
 
 
